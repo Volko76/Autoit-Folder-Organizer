@@ -2,4 +2,4 @@
 Choose a folder and it will create organize the folder with extensions names 
 
 # Add a folder
-Delete the settings.ini and relaunch the scrit
+Press p to open the windows which allow you to add a new folder to organize
